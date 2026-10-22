@@ -1,4 +1,6 @@
 ## Hi there 👋
+hello, my name is Varian Harrison. I am trying to improve on my coding skills in particular c++ and I want to learn about python as 
+well.
 
 <!--
 **tremain74/tremain74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
